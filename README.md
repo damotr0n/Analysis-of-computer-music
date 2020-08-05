@@ -6,7 +6,7 @@ It then analysed two simple synthesizers using the framework created.
 
 The framework itself is composed of three main components: sound generators, feature extractors, and learning algorithms.
 
-![Framework diagram](Images\general_structure.png)
+![Framework diagram](Images/general_structure.png)
 
 For a detailed explanation of the diagram above, including design and implementation of it, refer to the *Dissertation Full.pdf* document.
 
